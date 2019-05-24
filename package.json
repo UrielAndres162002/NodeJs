@@ -1,0 +1,19 @@
+{
+  "name": "nodefilesandresuriel",
+  "version": "10.15.3",
+  "description": "Simple Web App",
+  "main": "FileSystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrielAndres162002/NodeJs.git"
+  },
+  "author": "Uriel Andres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UrielAndres162002/NodeJs/issues"
+  },
+  "homepage": "https://github.com/UrielAndres162002/NodeJs#readme"
+}
